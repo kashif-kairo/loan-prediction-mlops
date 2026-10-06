@@ -38,4 +38,4 @@ jobs:
 
       - name: Run Prediction Script
         run: |
-          python src/prediction.py
+          python src/predicition.py
